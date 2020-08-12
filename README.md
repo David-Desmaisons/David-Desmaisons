@@ -16,7 +16,7 @@ I may accept freelance opportunities if related to Vue.js or Neutronium.
 
 🔭 I’m currently working on improvements on [Neutronium](https://github.com/NeutroniumCore/Neutronium) and [Ornette](https://github.com/David-Desmaisons/Ornette) a music player at its early stage.
 
-<img src="./octocat.png" alt="my octocat" width="500"/>
+<img src="https://raw.githubusercontent.com/David-Desmaisons/David-Desmaisons/master/octocat.png" alt="my octocat" width="500"/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticia-lima-cavalcanti/)](https://www.linkedin.com/in/david-desmaisons-phd-mcp-csm-2b9bb028/)
 
