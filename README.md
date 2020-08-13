@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-desmaisons-phd-mcp-csm-2b9bb028/)
 [![Buy me a coffee](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=GYAEKQZJ4FQT2&currency_code=USD&source=url)
-![visitors count](https://visitors-by-url-pls-dont-use-this-in-your-repo.vercel.app/David-Desmaisons-github-readme)
+[![contact](https://img.shields.io/badge/contact-email-green)](mailto:desmaisons_david@hotmail.com)
 
 
 ## Hi guys, welcome, my name is David Desmaisons!
