@@ -23,7 +23,16 @@
 
 ## 🚀Main projects
 * [Neutronium](https://github.com/NeutroniumCore/Neutronium) a C# framework to build .NET MVVM desktop applications using HTML, CSS and javascript.
-* [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) a vue component that handles drag-and-drop.
+* [RateLimiter](https://github.com/David-Desmaisons/RateLimiter) a C# client-side rate limiting utility.
+* [ComposableAsync](https://github.com/David-Desmaisons/ComposableAsync) To create, compose and inject asynchronous behaviors in .Net Framework and .Net Core. Including a circuit breaker and an in process actor model.
+* [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) a component that handles drag-and-drop.
+* [Vue.D3.tree](https://github.com/David-Desmaisons/Vue.D3.tree) a component to display tree based on D3.js layout.
+* [Vue.D3.sunburst](https://github.com/David-Desmaisons/Vue.D3.sunburst) a sunburst component based on D3.js.
+* 📈 [vue-plotly](https://github.com/David-Desmaisons/vue-plotly) a wrapper for plotly.js.
+* 🛠️ [vue-cli-plugin-component](https://github.com/David-Desmaisons/vue-cli-plugin-component) a vue-cli 3 plugin to create component.
+* 🛠️ [ComponentFixture](https://github.com/David-Desmaisons/ComponentFixture) an Interactive sandox playground for vue components.
+* [Vue.Resize](https://github.com/David-Desmaisons/Vue.resize) a directive to detect resize events.
+
 
 ## 🔭Currently
 * Working on improvements on [Neutronium](https://github.com/NeutroniumCore/Neutronium) and [Ornette](https://github.com/David-Desmaisons/Ornette) a music player at its early stage.
