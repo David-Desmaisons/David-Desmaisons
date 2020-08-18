@@ -38,6 +38,10 @@
 * Working on improvements on [Neutronium](https://github.com/NeutroniumCore/Neutronium) and [Ornette](https://github.com/David-Desmaisons/Ornette) a music player at its early stage.
 * Learning node.js
 
+## Others
+* 🖋 I wrote an article about using [slot for behaviors in vue.js](https://www.digitalocean.com/community/tutorials/vuejs-renderless-behavior-slots).
+* ☕If one of my repo has helped you, especially if you are using it in production, please consider making a donation.
+
 ## 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
