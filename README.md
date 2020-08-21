@@ -24,7 +24,8 @@
 ## 🚀Main projects
 * [Neutronium](https://github.com/NeutroniumCore/Neutronium) a C# framework to build .NET MVVM desktop applications using HTML, CSS and javascript.
 * [RateLimiter](https://github.com/David-Desmaisons/RateLimiter) a C# client-side rate limiting utility.
-* [ComposableAsync](https://github.com/David-Desmaisons/ComposableAsync) To create, compose and inject asynchronous behaviors in .Net Framework and .Net Core. Including a circuit breaker and an in process actor model.
+* [ComposableAsync](https://github.com/David-Desmaisons/ComposableAsync) A framework to create, compose and inject asynchronous behaviors in .Net Framework and .Net Core. Including a circuit breaker and an in process actor model.
+* [CodeDependencyScanner](https://github.com/David-Desmaisons/CodeDependencyScanner) A C# application to visualize and interact with .Net assembly objects (class, interface, enum, struct) and their dependencies.
 * [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) a component that handles drag-and-drop.
 * [Vue.D3.tree](https://github.com/David-Desmaisons/Vue.D3.tree) a component to display tree based on D3.js layout.
 * [Vue.D3.sunburst](https://github.com/David-Desmaisons/Vue.D3.sunburst) a sunburst component based on D3.js.
