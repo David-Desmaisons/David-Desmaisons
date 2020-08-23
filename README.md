@@ -7,7 +7,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/david-desmaisons-phd-mcp-csm-2b9bb028/)
 [![Buy me a coffee](https://img.shields.io/badge/buy%20me%20a-coffee-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=GYAEKQZJ4FQT2&currency_code=USD&source=url)
-[![contact](https://img.shields.io/badge/contact-email-green)](mailto:desmaisons_david@hotmail.com)
+[![contact](https://img.shields.io/badge/contact-email-green)](mailto:desmaisons_david@hotmail.com?subject=Contact%20github)
 
 <img align="right
 " src="https://raw.githubusercontent.com/David-Desmaisons/David-Desmaisons/master/octocat.png" alt="my octocat" width="400"/>
