@@ -36,7 +36,7 @@
 
 
 ## 🔭Currently
-* Working on improvements on [Neutronium](https://github.com/NeutroniumCore/Neutronium) and [Ornette](https://github.com/David-Desmaisons/Ornette) a music player at its early stage.
+* Upgrading [vue.draggable](https://github.com/SortableJS/Vue.Draggable) to vue 3.
 * Learning node.js
 
 ## ☕ Others
