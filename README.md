@@ -36,7 +36,7 @@
 
 
 ## 🔭Currently
-* Learning node.js
+* Improving Vue.D3.sunburst
 
 ## ☕ Others
 * 🖋 I wrote an article about using [slot for behaviors in vue.js](https://www.digitalocean.com/community/tutorials/vuejs-renderless-behavior-slots).
